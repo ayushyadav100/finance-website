@@ -1,2 +1,3 @@
 # finance-website
-check the fianance
+check the finance
+
